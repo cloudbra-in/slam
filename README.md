@@ -70,3 +70,14 @@ rosbag compress 2022-05-12-08-30-17.bag
 ## Sample bags
 
 You can download a sample bag file [here](https://github.com/cloudbra-in/slam-doc/raw/main/sample_bags/2022-05-12-08-30-17.bag).
+
+## What is cloud-bra.in?
+
+This is an experimental project by [Smile Robotics](https://en.smilerobotics.com).
+
+---
+
+## Links
+
+* [Terms and Conditions](https://cloudbra-in.github.io/slam/TAC.html)
+* [Smile Robotics](https://en.smilerobotics.com)
