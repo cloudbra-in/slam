@@ -56,7 +56,7 @@ Compress your bag file to reduce the size of the data to be uploaded.
 rosbag compress 2022-05-12-08-30-17.bag
 ```
 
-## slam.cloud-bra.in
+## Use slam.cloud-bra.in
 
 1. Access [slam.cloud-bra.in](https://slam.cloud-bra.in)
 1. Select your bag file
@@ -66,3 +66,7 @@ rosbag compress 2022-05-12-08-30-17.bag
 1. Upload!
 1. Wait until the map is completed
 1. Check and download the results
+
+## Sample bags
+
+You can download a sample bag file [here](https://github.com/cloudbra-in/slam-doc/raw/main/sample_bags/2022-05-12-08-30-17.bag).
